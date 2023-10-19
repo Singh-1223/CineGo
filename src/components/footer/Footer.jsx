@@ -22,12 +22,10 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                   <p> © 2023 CineGo </p> 
+                    All rights reserved. 
+All movie titles, images, and related content are the property of their respective studios and distributors. This website is for informational purposes only and does not endorse or promote any specific films or studios.
+
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
